@@ -3,6 +3,11 @@ package rec.entornos;
 
 
 public class Fraccion {
+    /**
+     * 
+     * @param numero
+     * @return
+     */
 
   public static double mitad (int numero) {
       return numero/2.0;
